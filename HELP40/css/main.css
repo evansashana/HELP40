@@ -377,6 +377,12 @@ Services Style
 #services p {
   color: #fff;
 }
+
+#services ul { 
+  text-align: left;
+  color: #fff;
+}
+
 #services .services-box {
   margin-top: 40px;
 }
